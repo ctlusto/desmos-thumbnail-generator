@@ -1,0 +1,11 @@
+.table-cell {
+  border: 1px solid #ddd;
+}
+
+.table-cell.red {
+  color: red;
+}
+
+.table-cell.green {
+  color: green;
+}

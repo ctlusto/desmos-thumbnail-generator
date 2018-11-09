@@ -1,0 +1,10 @@
+.HashTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.HashTable,
+.table-header,
+.table-row {
+  border: 1px solid #ddd;
+}

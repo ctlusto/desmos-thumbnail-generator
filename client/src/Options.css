@@ -1,0 +1,17 @@
+.Options {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.options-input {
+  height: 30px;
+  font-size: 14px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding-left: 5px;
+}
+
+.options-checkbox {
+  margin-top: 12px;
+}
